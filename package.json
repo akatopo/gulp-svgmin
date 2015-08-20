@@ -19,7 +19,7 @@
   ],
   "dependencies": {
     "gulp-util": "^3.0.4",
-    "svgo": "^0.5.1"
+    "svgo": "git://github.com/akatopo/svgo"
   },
   "devDependencies": {
     "chai": "~2.2.0",
